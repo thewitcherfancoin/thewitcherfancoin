@@ -1,4 +1,7 @@
 ### Hi there 👋
+"TheWicher" is an NFT fun token inspired by the popular fantasy series "The Witcher." The token leverages the unique capabilities of blockchain technology to create digital assets that represent various elements from the series, including characters, items, and locations.
+
+
 
 <!--
 **thewitcherfancoin/thewitcherfancoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
